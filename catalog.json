@@ -13,6 +13,18 @@
       "sha256": "e36b615ad79c039dd3efddbd641f4dc8c74fd0c29193ac314fe1c9213d94545f",
       "iconUrl": null,
       "minAppVersion": "1.0.0"
+    },
+    {
+      "id": "EZY",
+      "icao": "EZY",
+      "name": "EasyJety",
+      "version": "1.0.0",
+      "description": "EasyJet cabin announcements for MSFS 2024.",
+      "downloadUrl": "https://github.com/turkishtouchdown/cabin-announcements-packs/releases/download/RYR-1.0.0/RYR-1.0.0.zip",
+      "sizeBytes": 149228161,
+      "sha256": "e36b615ad79c039dd3efddbd641f4dc8c74fd0c29193ac314fe1c9213d94545f",
+      "iconUrl": null,
+      "minAppVersion": "1.0.0"
     }
   ]
 }
